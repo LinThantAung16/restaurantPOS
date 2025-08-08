@@ -1,0 +1,17 @@
+C:\Users\Lin Thant Aung\Desktop\RestaurantPOS\RestaurantPOS.Domain\obj\Debug\net8.0\RestaurantPOS.Domain.csproj.AssemblyReference.cache
+C:\Users\Lin Thant Aung\Desktop\RestaurantPOS\RestaurantPOS.Domain\obj\Debug\net8.0\RestaurantPOS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lin Thant Aung\Desktop\RestaurantPOS\RestaurantPOS.Domain\obj\Debug\net8.0\RestaurantPOS.Domain.AssemblyInfoInputs.cache
+C:\Users\Lin Thant Aung\Desktop\RestaurantPOS\RestaurantPOS.Domain\obj\Debug\net8.0\RestaurantPOS.Domain.AssemblyInfo.cs
+C:\Users\Lin Thant Aung\Desktop\RestaurantPOS\RestaurantPOS.Domain\obj\Debug\net8.0\RestaurantPOS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Lin Thant Aung\Desktop\RestaurantPOS\RestaurantPOS.Domain\bin\Debug\net8.0\RestaurantPOS.Domain.deps.json
+C:\Users\Lin Thant Aung\Desktop\RestaurantPOS\RestaurantPOS.Domain\bin\Debug\net8.0\RestaurantPOS.Domain.dll
+C:\Users\Lin Thant Aung\Desktop\RestaurantPOS\RestaurantPOS.Domain\bin\Debug\net8.0\RestaurantPOS.Domain.pdb
+C:\Users\Lin Thant Aung\Desktop\RestaurantPOS\RestaurantPOS.Domain\bin\Debug\net8.0\RestaurantPOS.Database.dll
+C:\Users\Lin Thant Aung\Desktop\RestaurantPOS\RestaurantPOS.Domain\bin\Debug\net8.0\RestaurantPOS.Shared.dll
+C:\Users\Lin Thant Aung\Desktop\RestaurantPOS\RestaurantPOS.Domain\bin\Debug\net8.0\RestaurantPOS.Database.pdb
+C:\Users\Lin Thant Aung\Desktop\RestaurantPOS\RestaurantPOS.Domain\bin\Debug\net8.0\RestaurantPOS.Shared.pdb
+C:\Users\Lin Thant Aung\Desktop\RestaurantPOS\RestaurantPOS.Domain\obj\Debug\net8.0\Restaura.05DF0BA3.Up2Date
+C:\Users\Lin Thant Aung\Desktop\RestaurantPOS\RestaurantPOS.Domain\obj\Debug\net8.0\RestaurantPOS.Domain.dll
+C:\Users\Lin Thant Aung\Desktop\RestaurantPOS\RestaurantPOS.Domain\obj\Debug\net8.0\refint\RestaurantPOS.Domain.dll
+C:\Users\Lin Thant Aung\Desktop\RestaurantPOS\RestaurantPOS.Domain\obj\Debug\net8.0\RestaurantPOS.Domain.pdb
+C:\Users\Lin Thant Aung\Desktop\RestaurantPOS\RestaurantPOS.Domain\obj\Debug\net8.0\ref\RestaurantPOS.Domain.dll

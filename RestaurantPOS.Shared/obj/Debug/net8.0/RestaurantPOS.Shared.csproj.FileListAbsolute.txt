@@ -1,0 +1,12 @@
+C:\Users\Lin Thant Aung\Desktop\RestaurantPOS\RestaurantPOS.Shared\bin\Debug\net8.0\RestaurantPOS.Shared.deps.json
+C:\Users\Lin Thant Aung\Desktop\RestaurantPOS\RestaurantPOS.Shared\bin\Debug\net8.0\RestaurantPOS.Shared.dll
+C:\Users\Lin Thant Aung\Desktop\RestaurantPOS\RestaurantPOS.Shared\bin\Debug\net8.0\RestaurantPOS.Shared.pdb
+C:\Users\Lin Thant Aung\Desktop\RestaurantPOS\RestaurantPOS.Shared\obj\Debug\net8.0\RestaurantPOS.Shared.csproj.AssemblyReference.cache
+C:\Users\Lin Thant Aung\Desktop\RestaurantPOS\RestaurantPOS.Shared\obj\Debug\net8.0\RestaurantPOS.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lin Thant Aung\Desktop\RestaurantPOS\RestaurantPOS.Shared\obj\Debug\net8.0\RestaurantPOS.Shared.AssemblyInfoInputs.cache
+C:\Users\Lin Thant Aung\Desktop\RestaurantPOS\RestaurantPOS.Shared\obj\Debug\net8.0\RestaurantPOS.Shared.AssemblyInfo.cs
+C:\Users\Lin Thant Aung\Desktop\RestaurantPOS\RestaurantPOS.Shared\obj\Debug\net8.0\RestaurantPOS.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Lin Thant Aung\Desktop\RestaurantPOS\RestaurantPOS.Shared\obj\Debug\net8.0\RestaurantPOS.Shared.dll
+C:\Users\Lin Thant Aung\Desktop\RestaurantPOS\RestaurantPOS.Shared\obj\Debug\net8.0\refint\RestaurantPOS.Shared.dll
+C:\Users\Lin Thant Aung\Desktop\RestaurantPOS\RestaurantPOS.Shared\obj\Debug\net8.0\RestaurantPOS.Shared.pdb
+C:\Users\Lin Thant Aung\Desktop\RestaurantPOS\RestaurantPOS.Shared\obj\Debug\net8.0\ref\RestaurantPOS.Shared.dll

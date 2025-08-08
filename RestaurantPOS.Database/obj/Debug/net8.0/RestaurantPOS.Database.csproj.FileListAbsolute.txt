@@ -1,0 +1,14 @@
+C:\Users\Lin Thant Aung\Desktop\RestaurantPOS\RestaurantPOS.Database\bin\Debug\net8.0\RestaurantPOS.Database.deps.json
+C:\Users\Lin Thant Aung\Desktop\RestaurantPOS\RestaurantPOS.Database\bin\Debug\net8.0\RestaurantPOS.Database.runtimeconfig.json
+C:\Users\Lin Thant Aung\Desktop\RestaurantPOS\RestaurantPOS.Database\bin\Debug\net8.0\RestaurantPOS.Database.dll
+C:\Users\Lin Thant Aung\Desktop\RestaurantPOS\RestaurantPOS.Database\bin\Debug\net8.0\RestaurantPOS.Database.pdb
+C:\Users\Lin Thant Aung\Desktop\RestaurantPOS\RestaurantPOS.Database\obj\Debug\net8.0\RestaurantPOS.Database.csproj.AssemblyReference.cache
+C:\Users\Lin Thant Aung\Desktop\RestaurantPOS\RestaurantPOS.Database\obj\Debug\net8.0\RestaurantPOS.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lin Thant Aung\Desktop\RestaurantPOS\RestaurantPOS.Database\obj\Debug\net8.0\RestaurantPOS.Database.AssemblyInfoInputs.cache
+C:\Users\Lin Thant Aung\Desktop\RestaurantPOS\RestaurantPOS.Database\obj\Debug\net8.0\RestaurantPOS.Database.AssemblyInfo.cs
+C:\Users\Lin Thant Aung\Desktop\RestaurantPOS\RestaurantPOS.Database\obj\Debug\net8.0\RestaurantPOS.Database.csproj.CoreCompileInputs.cache
+C:\Users\Lin Thant Aung\Desktop\RestaurantPOS\RestaurantPOS.Database\obj\Debug\net8.0\RestaurantPOS.Database.dll
+C:\Users\Lin Thant Aung\Desktop\RestaurantPOS\RestaurantPOS.Database\obj\Debug\net8.0\refint\RestaurantPOS.Database.dll
+C:\Users\Lin Thant Aung\Desktop\RestaurantPOS\RestaurantPOS.Database\obj\Debug\net8.0\RestaurantPOS.Database.pdb
+C:\Users\Lin Thant Aung\Desktop\RestaurantPOS\RestaurantPOS.Database\obj\Debug\net8.0\RestaurantPOS.Database.genruntimeconfig.cache
+C:\Users\Lin Thant Aung\Desktop\RestaurantPOS\RestaurantPOS.Database\obj\Debug\net8.0\ref\RestaurantPOS.Database.dll
