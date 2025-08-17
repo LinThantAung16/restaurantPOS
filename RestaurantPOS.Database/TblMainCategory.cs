@@ -1,11 +1,11 @@
 namespace RestaurantPOS.Database;
 public class TblMainCategory
 {
-    public string MainCategoryID { get; set; }
-    public string MainCategoryCode { get; set; }
-    public string MainCategoryName { get; set; }
-    public DateTime? CreatedAt { get; set; }
-    public string CreatedBy { get; set; }
-    public DateTime? ModifiedAt { get; set; }
-    public string ModifiedBy { get; set; }
+    public string maincategoryid { get; set; }
+    public string maincategorycode { get; set; }
+    public string maincategoryname { get; set; }
+    public DateTime? createdat { get; set; }
+    public string createdby { get; set; }
+    public DateTime? modifiedat { get; set; }
+    public string modifiedby { get; set; }
 }

@@ -171,6 +171,10 @@
             "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",
               "version": "[9.0.4, )"
+            },
+            "Ulid": {
+              "target": "Package",
+              "version": "[1.4.1, )"
             }
           },
           "imports": [
@@ -223,7 +227,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\Lin Thant Aung\\Desktop\\RestaurantPOS\\RestaurantPOS.Database\\RestaurantPOS.Database.csproj": {
+                "projectPath": "C:\\Users\\Lin Thant Aung\\Desktop\\RestaurantPOS\\RestaurantPOS.Database\\RestaurantPOS.Database.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

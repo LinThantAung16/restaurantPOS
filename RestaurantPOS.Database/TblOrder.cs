@@ -1,11 +1,11 @@
 namespace RestaurantPOS.Database;
 public class TblOrder
 {
-    public string OrderID { get; set; }
-    public string OrderCode { get; set; }
-    public string TableNumber { get; set; }
-    public DateTime? CreatedAt { get; set; }
-    public string CreatedBy { get; set; }
-    public DateTime? ClosedAt { get; set; }
-    public string ClosedBy { get; set; }
+    public string orderid { get; set; }
+    public string ordercode { get; set; }
+    public string tablenumber { get; set; }
+    public DateTime? createdat { get; set; }
+    public string createdby { get; set; }
+    public DateTime? closedat { get; set; }
+    public string closedby { get; set; }
 }

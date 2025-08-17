@@ -15,3 +15,4 @@ C:\Users\Lin Thant Aung\Desktop\RestaurantPOS\RestaurantPOS.Domain\obj\Debug\net
 C:\Users\Lin Thant Aung\Desktop\RestaurantPOS\RestaurantPOS.Domain\obj\Debug\net8.0\refint\RestaurantPOS.Domain.dll
 C:\Users\Lin Thant Aung\Desktop\RestaurantPOS\RestaurantPOS.Domain\obj\Debug\net8.0\RestaurantPOS.Domain.pdb
 C:\Users\Lin Thant Aung\Desktop\RestaurantPOS\RestaurantPOS.Domain\obj\Debug\net8.0\ref\RestaurantPOS.Domain.dll
+C:\Users\Lin Thant Aung\Desktop\RestaurantPOS\RestaurantPOS.Domain\obj\Debug\net8.0\RestaurantPOS.Domain.sourcelink.json

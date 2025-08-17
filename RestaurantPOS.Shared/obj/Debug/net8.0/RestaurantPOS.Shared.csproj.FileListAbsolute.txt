@@ -10,3 +10,7 @@ C:\Users\Lin Thant Aung\Desktop\RestaurantPOS\RestaurantPOS.Shared\obj\Debug\net
 C:\Users\Lin Thant Aung\Desktop\RestaurantPOS\RestaurantPOS.Shared\obj\Debug\net8.0\refint\RestaurantPOS.Shared.dll
 C:\Users\Lin Thant Aung\Desktop\RestaurantPOS\RestaurantPOS.Shared\obj\Debug\net8.0\RestaurantPOS.Shared.pdb
 C:\Users\Lin Thant Aung\Desktop\RestaurantPOS\RestaurantPOS.Shared\obj\Debug\net8.0\ref\RestaurantPOS.Shared.dll
+C:\Users\Lin Thant Aung\Desktop\RestaurantPOS\RestaurantPOS.Shared\bin\Debug\net8.0\RestaurantPOS.Database.dll
+C:\Users\Lin Thant Aung\Desktop\RestaurantPOS\RestaurantPOS.Shared\bin\Debug\net8.0\RestaurantPOS.Database.pdb
+C:\Users\Lin Thant Aung\Desktop\RestaurantPOS\RestaurantPOS.Shared\obj\Debug\net8.0\RestaurantPOS.Shared.sourcelink.json
+C:\Users\Lin Thant Aung\Desktop\RestaurantPOS\RestaurantPOS.Shared\obj\Debug\net8.0\Restaura.5A4AB545.Up2Date

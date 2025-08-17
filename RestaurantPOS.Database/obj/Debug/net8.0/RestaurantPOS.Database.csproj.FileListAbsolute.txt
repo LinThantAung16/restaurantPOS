@@ -12,3 +12,4 @@ C:\Users\Lin Thant Aung\Desktop\RestaurantPOS\RestaurantPOS.Database\obj\Debug\n
 C:\Users\Lin Thant Aung\Desktop\RestaurantPOS\RestaurantPOS.Database\obj\Debug\net8.0\RestaurantPOS.Database.pdb
 C:\Users\Lin Thant Aung\Desktop\RestaurantPOS\RestaurantPOS.Database\obj\Debug\net8.0\RestaurantPOS.Database.genruntimeconfig.cache
 C:\Users\Lin Thant Aung\Desktop\RestaurantPOS\RestaurantPOS.Database\obj\Debug\net8.0\ref\RestaurantPOS.Database.dll
+C:\Users\Lin Thant Aung\Desktop\RestaurantPOS\RestaurantPOS.Database\obj\Debug\net8.0\RestaurantPOS.Database.sourcelink.json

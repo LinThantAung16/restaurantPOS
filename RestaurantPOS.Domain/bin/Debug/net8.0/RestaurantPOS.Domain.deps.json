@@ -16,7 +16,8 @@
           "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.8",
           "Npgsql.EntityFrameworkCore.PostgreSQL": "9.0.4",
           "RestaurantPOS.Database": "1.0.0",
-          "RestaurantPOS.Shared": "1.0.0"
+          "RestaurantPOS.Shared": "1.0.0",
+          "Ulid": "1.4.1"
         },
         "runtime": {
           "RestaurantPOS.Domain.dll": {}
@@ -216,6 +217,14 @@
         }
       },
       "System.Text.Encodings.Web/8.0.0": {},
+      "Ulid/1.4.1": {
+        "runtime": {
+          "lib/net8.0/Ulid.dll": {
+            "assemblyVersion": "1.4.1.0",
+            "fileVersion": "1.4.1.0"
+          }
+        }
+      },
       "RestaurantPOS.Database/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "9.0.8",
@@ -230,7 +239,8 @@
       },
       "RestaurantPOS.Shared/1.0.0": {
         "dependencies": {
-          "Microsoft.EntityFrameworkCore": "9.0.8"
+          "Microsoft.EntityFrameworkCore": "9.0.8",
+          "RestaurantPOS.Database": "1.0.0"
         },
         "runtime": {
           "RestaurantPOS.Shared.dll": {
@@ -386,6 +396,13 @@
       "sha512": "sha512-yev/k9GHAEGx2Rg3/tU6MQh4HGBXJs70y7j1LaM1i/ER9po+6nnQ6RRqTJn1E7Xu0fbIFK80Nh5EoODxrbxwBQ==",
       "path": "system.text.encodings.web/8.0.0",
       "hashPath": "system.text.encodings.web.8.0.0.nupkg.sha512"
+    },
+    "Ulid/1.4.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-V6crLJ8a29raWeNwxYGfH9RTKA3H0nR0D9LAGzN3KtEsbiiaWkUjDor6OT5Oz7pxCK+NaY2hu2FLoYEOa8oCkA==",
+      "path": "ulid/1.4.1",
+      "hashPath": "ulid.1.4.1.nupkg.sha512"
     },
     "RestaurantPOS.Database/1.0.0": {
       "type": "project",

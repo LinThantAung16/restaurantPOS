@@ -19,7 +19,14 @@ public class RoleController : ControllerBase
         var result = await bL_Role.List();
             return Ok(result.Data);
         
-
     }
+
+    [HttpPost("Create")]
+    public async Task<IActionResult> Create([FromBody] roleRequestModel req)
+    {
+        return Ok(await bL_Role.Create(req));
+    }
+
+    
 }
 

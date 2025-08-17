@@ -1,8 +1,8 @@
 namespace RestaurantPOS.Database;
 public class TblServingTable
 {
-    public string ServingTableID { get; set; }
-    public int? TableNumber { get; set; }
-    public int? PeopleCount { get; set; }
-    public string Status { get; set; }
+    public string servingtableid { get; set; }
+    public int? tablenumber { get; set; }
+    public int? peoplecount { get; set; }
+    public string status { get; set; }
 }
