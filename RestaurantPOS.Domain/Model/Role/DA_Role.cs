@@ -40,8 +40,31 @@ namespace RestaurantPOS.Domain.Model.Role
             }
         }
 
+        //edit role
+        public async Task<Result<roleResponseModel>> Edit(string roleCode)
+        {
+            var model = new roleResponseModel();
+            try
+            {
+                var data = await _db.TblRoles
+                                    .FirstOrDefaultAsync(r => r.rolecode == roleCode);  
+                if (data is null)
+                {
+                    return Result<roleResponseModel>.NotFoundError("Role Not Found.");
+                }
+
+                model.role = roleListModel.FromTblRole(data);
+                return Result<roleResponseModel>.Success(model);
+            }
+            catch (Exception ex)
+            {
+                return Result<roleResponseModel>.SystemError(ex.Message);
+            }
+        }
+
+
         // create role
-        public async Task<Result<roleResponseModel>> Create(roleRequestModel role)
+        public async Task<Result<roleResponseModel>> Create(roleCreateRequestModel role)
         {
             try
             {
@@ -68,7 +91,51 @@ namespace RestaurantPOS.Domain.Model.Role
         }
 
         // Update role
+        public async Task<Result<roleResponseModel>> Update(roleUpdateRequestModel role)
+        {
+            try
+            {
+                var existingRole = await _db.TblRoles.FirstOrDefaultAsync(x=>x.rolecode == role.roleCode);
+                if (existingRole == null)
+                {
+                    return Result<roleResponseModel>.NotFoundError("Role not found.");
+                }
+                var helper = new DevCode(_db);
+                if (helper.Exists<TblRole>(r => r.rolename, role.roleName))
+                {
+                    return Result<roleResponseModel>.ValidationError("Role already exist.");
+                }
+                existingRole.rolename = role.roleName;
+                _db.TblRoles.Update(existingRole);
+                await _db.SaveChangesAsync();
+                return Result<roleResponseModel>.Success("Role updated successfully.");
+            }
+            catch (Exception ex)
+            {
+                return Result<roleResponseModel>.SystemError(ex.Message);
+            }
+        }
 
+        // Delete role
+
+        public async Task<Result<roleResponseModel>> Delete(string roleCode)
+        {
+            try
+            {
+                var existingRole = await _db.TblRoles.FirstOrDefaultAsync(x => x.rolecode ==roleCode);
+                if (existingRole == null)
+                {
+                    return Result<roleResponseModel>.NotFoundError("Role not found.");
+                }
+                _db.TblRoles.Remove(existingRole);
+                await _db.SaveChangesAsync();
+                return Result<roleResponseModel>.Success("Role deleted successfully.");
+            }
+            catch (Exception ex)
+            {
+                return Result<roleResponseModel>.SystemError(ex.Message);
+            }
+        }
 
     }
 }

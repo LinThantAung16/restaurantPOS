@@ -9,7 +9,45 @@
     "Parameters": [
       {
         "Name": "req",
-        "Type": "RestaurantPOS.Domain.Model.Role.roleRequestModel",
+        "Type": "RestaurantPOS.Domain.Model.Role.roleCreateRequestModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "Tags": [
+      "Admin User"
+    ]
+  },
+  {
+    "ContainingType": "RestaurantPOS.Controllers.RoleController",
+    "Method": "Delete",
+    "RelativePath": "api/Role/Delete/{roleCode}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "roleCode",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "Tags": [
+      "Admin User"
+    ]
+  },
+  {
+    "ContainingType": "RestaurantPOS.Controllers.RoleController",
+    "Method": "Edit",
+    "RelativePath": "api/Role/Edit/{roleCode}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "roleCode",
+        "Type": "System.String",
         "IsRequired": true
       }
     ],
@@ -26,6 +64,25 @@
     "IsController": true,
     "Order": 0,
     "Parameters": [],
+    "ReturnTypes": [],
+    "Tags": [
+      "Admin User"
+    ]
+  },
+  {
+    "ContainingType": "RestaurantPOS.Controllers.RoleController",
+    "Method": "Update",
+    "RelativePath": "api/Role/Update",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "RestaurantPOS.Domain.Model.Role.roleUpdateRequestModel",
+        "IsRequired": true
+      }
+    ],
     "ReturnTypes": [],
     "Tags": [
       "Admin User"

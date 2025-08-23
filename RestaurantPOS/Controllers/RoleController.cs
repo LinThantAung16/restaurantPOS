@@ -21,12 +21,27 @@ public class RoleController : ControllerBase
         
     }
 
+    [HttpGet("Edit/{roleCode}")]
+    public async Task<IActionResult> Edit(string roleCode)
+    {
+        return Ok(await bL_Role.Edit(roleCode));
+    }
     [HttpPost("Create")]
-    public async Task<IActionResult> Create([FromBody] roleRequestModel req)
+    public async Task<IActionResult> Create([FromBody] roleCreateRequestModel req)
     {
         return Ok(await bL_Role.Create(req));
     }
 
-    
+    [HttpPost("Update")]
+    public async Task<IActionResult> Update([FromBody] roleUpdateRequestModel req)
+    {
+        return Ok(await bL_Role.Update(req));
+    }
+
+    [HttpPost("Delete/{roleCode}")]
+    public async Task<IActionResult> Delete(string roleCode)
+    {
+        return Ok(await bL_Role.Delete(roleCode));
+    }
 }
 

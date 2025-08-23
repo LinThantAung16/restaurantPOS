@@ -9,7 +9,8 @@ namespace RestaurantPOS.Domain.Model.Role
 {
     public class roleResponseModel
     {
-        public List<roleListModel> roles { get; set; }
+        public roleListModel role { get; set; } //to get single role for edit
+        public List<roleListModel> roles { get; set; } //to get list of roles
     }
     public class roleListModel
     {
