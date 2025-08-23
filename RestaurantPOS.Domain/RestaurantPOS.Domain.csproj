@@ -23,4 +23,8 @@
     <ProjectReference Include="..\RestaurantPOS.Shared\RestaurantPOS.Shared.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Model\User\" />
+  </ItemGroup>
+
 </Project>
