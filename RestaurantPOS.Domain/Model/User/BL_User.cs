@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace RestaurantPOS.Domain.Model.User
 {
-    internal class BLUser
+    public class BL_User
     {
+
     }
 }
