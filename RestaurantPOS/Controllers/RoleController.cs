@@ -16,8 +16,7 @@ public class RoleController : ControllerBase
     [HttpGet("List")]
     public async Task<IActionResult> List()
     {
-        var result = await bL_Role.List();
-            return Ok(result.Data);
+            return Ok(await bL_Role.List(););
         
     }
 

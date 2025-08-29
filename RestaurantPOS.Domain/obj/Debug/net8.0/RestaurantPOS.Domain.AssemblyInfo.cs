@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RestaurantPOS.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec438709c2012a3f7b04d25e3dfaaa6d2420a994")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f42668367321b11f528897391e29d8d38276605b")]
 [assembly: System.Reflection.AssemblyProductAttribute("RestaurantPOS.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RestaurantPOS.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
