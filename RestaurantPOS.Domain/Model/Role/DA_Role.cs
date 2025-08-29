@@ -52,7 +52,7 @@ namespace RestaurantPOS.Domain.Model.Role
                 {
                     return Result<roleResponseModel>.NotFoundError("Role Not Found.");
                 }
-
+        
                 model.role = roleListModel.FromTblRole(data);
                 return Result<roleResponseModel>.Success(model);
             }
@@ -65,7 +65,7 @@ namespace RestaurantPOS.Domain.Model.Role
 
         // create role
         public async Task<Result<roleResponseModel>> Create(roleCreateRequestModel role)
-        {
+        {        
             try
             {
                 var helper = new DevCode(_db);

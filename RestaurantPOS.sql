@@ -93,3 +93,6 @@ create table public.tblDailyProfit(
   cardamount decimal(30,2),
   totalamount decimal(30,2)
 );
+
+select * from tblrole;
+select * from tblrole where roleCode='R0001';
